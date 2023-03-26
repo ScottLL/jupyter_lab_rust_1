@@ -1,5 +1,6 @@
 # Rust Notebook
 ![Screenshot 2023-03-26 at 12 29 22 AM](https://user-images.githubusercontent.com/43226003/227755372-c1404024-2dd4-4873-b4e9-e4f496986d48.png)
+YouTube Video: https://youtu.be/xueeTMMrb4I
 
 # install Minicoda 
 (check your minicoda version on https://docs.conda.io/en/latest/miniconda.html)
